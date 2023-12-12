@@ -14,3 +14,16 @@
 <link href="{{ asset('panel/plugins/apex/apexcharts.css') }}" rel="stylesheet" type="text/css">
 <link href="{{ asset('panel/assets/css/dashboard/dash_1.css') }}" rel="stylesheet" type="text/css" />
 <!-- END PAGE LEVEL PLUGINS/CUSTOM STYLES -->
+
+
+  <script type="text/javascript">
+  window.RAYCHAT_TOKEN = "dff7806f-ee4b-46c7-9d8b-6cea0bcac3c1";
+    (function () {
+      d = document;
+      s = d.createElement("script");
+      s.src = "https://widget-react.raychat.io/install/widget.js";
+      s.async = 1;
+      d.getElementsByTagName("head")[0].appendChild(s);
+    })();
+  </script>
+  

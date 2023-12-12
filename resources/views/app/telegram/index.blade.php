@@ -18,6 +18,17 @@
     <link rel="shortcut icon" href="{{ asset('landing/assets/images/logo/favicon.png') }}">
     <link rel="apple-touch-icon-precomposed" href="{{ asset('landing/assets/images/logo/favicon.png') }}">
 
+    <script type="text/javascript">
+        window.RAYCHAT_TOKEN = "dff7806f-ee4b-46c7-9d8b-6cea0bcac3c1";
+        (function() {
+            d = document;
+            s = d.createElement("script");
+            s.src = "https://widget-react.raychat.io/install/widget.js";
+            s.async = 1;
+            d.getElementsByTagName("head")[0].appendChild(s);
+        })();
+    </script>
+
 </head>
 
 <body class="home-main header-fixed rtl">
