@@ -11,15 +11,15 @@ class AdminOrderController extends Controller
     public function all()
     {
         $orders = Order::all();
-        return view('admin.orders.all', compact("orders"));
+        return view('panels.admin.orders.all', compact("orders"));
     }
 
     public function status(Request $request, $orderId)
     {
         $order = Order::find($orderId);
-        $order->status = $order->status == 1 ? 2 : 1;
+        $order->done = $order->done == 0 ? 1 : 0;
         $order->save();
-        return response()->redirect()->with("success", "با موفقیت انجام شد!");
+        return redirect()->back()->with("success", "با موفقیت انجام شد!");
     }
 
 

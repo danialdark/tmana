@@ -11,7 +11,7 @@ class AdminUserController extends Controller
     public function all()
     {
         $users = User::all();
-        return view("admin.users.all", compact("users"));
+        return view("panels.admin.users.all", compact("users"));
     }
 
 

@@ -12,6 +12,11 @@ class Order extends Model
 
     public function plan()
     {
-       return  $this->belongsTo("App\Models\plan\Plan", "plan_id");
+        return  $this->belongsTo("App\Models\plan\Plan", "plan_id");
+    }
+
+    public function buyer()
+    {
+        return  $this->belongsTo("App\Models\User", "user_id");
     }
 }

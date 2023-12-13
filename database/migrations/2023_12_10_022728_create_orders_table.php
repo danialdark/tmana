@@ -20,6 +20,7 @@ return new class extends Migration
             $table->text("payment_code")->nullable();
             $table->text("shaparak_code")->nullable();
             $table->tinyInteger("status")->default(0)->comment("0 is not paid 1 is payed");
+            $table->tinyInteger("done")->default(0)->comment("0 is done 1 is not done");
             $table->timestamps();
         });
     }
