@@ -1,14 +1,15 @@
 <?php
 
-use App\Http\Controllers\Admin\Orders\AdminOrderController;
-use App\Http\Controllers\Admin\Product\Category\AdminProductCategoryController;
-use App\Http\Controllers\Admin\Product\Category\AdminProductController;
-use App\Http\Controllers\Admin\User\AdminUserController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Auth\AuthController;
+use App\Http\Controllers\Admin\User\AdminUserController;
+use App\Http\Controllers\Admin\Orders\AdminOrderController;
 use App\Http\Controllers\Panel\user\MainUserPanelController;
-use App\Http\Controllers\panel\user\plans\UserPlansController;
-use App\Http\Controllers\panel\user\Orders\UserOrdersController;
+use App\Http\Controllers\Panel\User\Plans\UserPlansController;
+use App\Http\Controllers\Panel\User\Orders\UserOrdersController;
+use App\Http\Controllers\Admin\Product\Category\AdminProductController;
+use App\Http\Controllers\Admin\Product\Category\AdminProductCategoryController;
+
 
 /*
 |--------------------------------------------------------------------------

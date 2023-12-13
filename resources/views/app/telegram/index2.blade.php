@@ -1,6 +1,3 @@
-
-
-
 <!DOCTYPE html>
 <html lang="fa" dir="rtl">
 
@@ -84,9 +81,9 @@
                     <div class="col-xl-5 col-md-12 align-items-center mt-lg-5">
                         <div class="banner__left pb-0">
                             <div class="block-text">
-                                <h2 class="heading">AdobeXd<span class="arlo_tm_animation_text_word"></span>
+                                <h2 class="heading">Telegram<span class="arlo_tm_animation_text_word"></span>
                                 </h2>
-                                <p class="desc">خرید اکانت پریمیوم ادوبی ایکس دی (AdobeXd Premium) با پرداخت ریالی و در کمتر
+                                <p class="desc">خرید اکانت پریمیوم تلگرام (Telegram Premium) با پرداخت ریالی و در کمتر
                                     از 5 دقیقه به صورت اتوماتیک و بدون نیاز به لاگین!</p>
                             </div>
                         </div>
@@ -110,7 +107,7 @@
         <section class="banner s3 d-md-flex justify-content-between  px-2 pb-5">
             <div class="banner-box  mb-5 mb-md-0" data-aos="fade-up" data-aos-duration="2000">
                 <div class="top">
-                    <h4 class="text-center">اکانت ادوبی ایکس دی پریمویم 3 ماهه</h4>
+                    <h4 class="text-center">اکانت تلگرام پریمویم 3 ماهه</h4>
                 </div>
 
                 <div class="main justify-content-between">
@@ -146,7 +143,7 @@
 
             <div class="banner-box mx-2  mb-5 mb-md-0" data-aos="fade-up" data-aos-duration="2000">
                 <div class="top">
-                    <h4 class="text-center">اکانت ادوبی ایکس دی پریمویم 6 ماهه</h4>
+                    <h4 class="text-center">اکانت تلگرام پریمویم 6 ماهه</h4>
                 </div>
 
                 <div class="main justify-content-between">
@@ -182,7 +179,7 @@
 
             <div class="banner-box  mb-5 mb-md-0" data-aos="fade-up" data-aos-duration="2000">
                 <div class="top">
-                    <h4 class="text-center">اکانت ادوبی ایکس دی پریمویم 1 ساله</h4>
+                    <h4 class="text-center">اکانت تلگرام پریمویم 1 ساله</h4>
                 </div>
 
                 <div class="main justify-content-between">
@@ -224,8 +221,8 @@
                 <div class="row">
                     <div class="col-xl-6 col-md-12">
                         <div class="block-text">
-                            <h3 class="heading wow" data-splitting>امکانت ادوبی ایکس دی پریمیوم</h3>
-                            <p>در زیر لیستی از امکانات اکانت پریمیوم ادوبی ایکس دی (AdobeXd Premium) به همراه سوالات احتمالی
+                            <h3 class="heading wow" data-splitting>امکانت تلگرام پریمیوم</h3>
+                            <p>در زیر لیستی از امکانات اکانت پریمیوم تلگرام (Telegram Premium) به همراه سوالات احتمالی
                                 شما عزیزان آورده شده!</p>
 
                         </div>
@@ -234,12 +231,12 @@
                                 <div class="content-inner">
                                     <div class="flat-accordion">
                                         <div class="flat-toggle">
-                                            <h6 class="toggle-title">امکانات اکانت ادوبی ایکس دی پریمیوم<span
+                                            <h6 class="toggle-title">امکانات اکانت تلگرام پریمیوم<span
                                                     class="icon-plus"></span></h6>
                                             <div class="toggle-content">
 
 
-                                                <p><strong>امکان قرار دادن استوری (مختص ادوبی ایکس دی پرمیوم)</strong>
+                                                <p><strong>امکان قرار دادن استوری (مختص تلگرام پرمیوم)</strong>
                                                 </p>
                                                 <hr>
                                                 <p>می توانید تا حجم 4 گیگابایت هر فایلی که تمایل دارید را بارگذاری
@@ -250,7 +247,7 @@
                                                 </p>
                                                 <hr>
 
-                                                <p>حذف تبلیغات آزار دهنده که به زودی به ادوبی ایکس دی افزوده خواهد شد.
+                                                <p>حذف تبلیغات آزار دهنده که به زودی به تلگرام افزوده خواهد شد.
                                                 </p>
                                                 <hr>
 
@@ -265,7 +262,7 @@
                                                     خواهد شد و شما را از دیگر افراد متمایز می کند.</p>
                                                 <hr>
 
-                                                <p>گزینه ای برای تنظیم یک پوشه پیش فرض هنگام دسترسی به ادوبی ایکس دی ، و
+                                                <p>گزینه ای برای تنظیم یک پوشه پیش فرض هنگام دسترسی به تلگرام ، و
                                                     همچنین امکان بایگانی خودکار افراد جدید که پیام را دریافت کرده
                                                     اند (این ویژگی قبلاً موجود بود اما فقط برای کسانی که پیام های
                                                     زیادی دریافت کرده اند)</p>
@@ -275,7 +272,7 @@
                                                     شما را باز نکرده باشد)</p>
                                                 <hr>
 
-                                                <p>امکان تغییر و شخصی سازی لوگوی ادوبی ایکس دی.</p>
+                                                <p>امکان تغییر و شخصی سازی لوگوی تلگرام.</p>
                                                 <hr>
 
                                                 <p>میزان استیکر هایی را که کاربر می تواند به علایق خود در صفحه
@@ -286,7 +283,7 @@
                                                     500 به 1000 عدد.</p>
                                                 <hr>
 
-                                                <p>افزایش تعداد پوشه های چت های ادوبی ایکس دی از ده عدد به بیست عدد.</p>
+                                                <p>افزایش تعداد پوشه های چت های تلگرام از ده عدد به بیست عدد.</p>
                                                 <hr>
 
                                                 <p>توانایی کاربر در ایجاد سوپرگروه و کانال (ID) از 10 تا به 20 عدد
@@ -328,7 +325,7 @@
                                             <div class="toggle-content">
                                                 <p>
                                                     خواهشا هر مشکلی و هر چیزی که بود از طریق چت آنلاین با ما در ارتباط
-                                                    باشید و توی کانال ادوبی ایکس دی ما عضو بشید تا تخفیف هارو ببینید!
+                                                    باشید و توی کانال تلگرام ما عضو بشید تا تخفیف هارو ببینید!
                                                 </p>
                                             </div>
                                         </div>
